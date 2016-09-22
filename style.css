@@ -14,13 +14,13 @@ hr {
 
 div {
     width: 100%;
-    height: 600px;
+    height: 100%;
 }
 
 div div {
-    width: 1%;
-    height: 2%;
-    outline: 1px solid #fff;
+    width: .75%;
+    height: 1.5%;
+    /*outline: 1px solid #fff;*/
     float: left;
     background: black;
 }
@@ -43,6 +43,10 @@ div div {
 
 .yellow {
   background: yellow;
+}
+
+span {
+  border: 5px
 }
 
 .pallette-white {
